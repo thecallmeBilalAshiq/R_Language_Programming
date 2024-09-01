@@ -1,7 +1,7 @@
 <h1 align="center"> R Language PRogramming  </h1>
 
 
-![Muhammad Bilal Ashiq](Source/Bilal.png)
+![](Source/Bilal.png)
 
 <h2 align="center"> My practice to learn R Language </h2>
 
